@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Zhi Zhou
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Sun Yat-sen Univerisity
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cloud and Edge Computing
+- Distributed Systems for ML and Data Analytics
+- Green Computing and Software Defined Battery
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Computer Architecture
+    institution: Huazhong University of Science and Technology (HUST)
+    year: 2017
+  - course: MEng in Computer Technology 
+    institution: Huazhong University of Science and Technology (HUST)
+    year: 2014
+  - course: BSc in Computer Science and Technology 
+    institution: Huazhong University of Science and Technology (HUST)
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Minor in Finance 
+    institution: Wuhan University (WHU)
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
